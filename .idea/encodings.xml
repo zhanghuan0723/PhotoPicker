@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/simon/com/photopicker/AllPhotoAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/simon/com/photopicker/App.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/simon/com/photopicker/AutoHeightGridView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/simon/com/photopicker/FolderAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/simon/com/photopicker/ImagePagerActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/simon/com/photopicker/ImagePagerFragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/simon/com/photopicker/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/simon/com/photopicker/PhotoPickActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/simon/com/photopicker/PhotoPickDetailActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/imageview_touch.xml" charset="UTF-8" />
+  </component>
+</project>
